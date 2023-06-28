@@ -1,0 +1,17 @@
+*{
+  font-size:105%;
+  font-family:cursive;
+}
+
+.nav{
+  background-color: black;
+}
+
+.nav a {
+  color:silver;
+  text-decoration:none;
+  margin:5%;
+}
+body{
+  background-color: aquamarine;
+}
